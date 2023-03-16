@@ -1,7 +1,7 @@
 ### Olá !! Seja bem vindo ao meu perfil do Github. 👋
 
 - 🔭 Desenvolvedor Full Stack Jr.
-- 🌱 Estudando: NodeJS, MySQL, JavaScript, CSS, HTML .
+- 🌱 Estudando: NodeJS, MySQL, JavaScrip.
 
  <a href="https://github.com/carllostavares">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=carllostavares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
