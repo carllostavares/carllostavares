@@ -1,7 +1,7 @@
 ### Olá !! Seja bem vindo ao meu perfil do Github. 👋
 
-- 🔭 Desenvolvedor Back End
-- 🌱 Estudando: Node.js, Express.js, MySQL, SQL, Banco de Dados e JavaScrip.
+- 🔭 Desenvolvedor Back-End
+- 🌱 Estudando: Python, Django, MySQL, Banco de Dados Ralacional.
 
  <a href="https://github.com/carllostavares">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=carllostavares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,7 +10,7 @@
 
 ## Técnologias em Desenvolvimento: 
 <div style="display: inline_block"><br>
-  <img align="center" alt="madeira-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
+  <img align="center" alt="madeira-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="madeira-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="madeira-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="madeira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
